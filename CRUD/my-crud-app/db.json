@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "a023",
+      "name": "Produto",
+      "description": "Teste",
+      "price": "50",
+      "quantity": "21454"
+    },
+    {
+      "id": "3360",
+      "name": "Alex",
+      "description": "Escravidão",
+      "price": "10",
+      "quantity": "2"
+    }
+  ]
+}
